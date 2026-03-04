@@ -13,11 +13,6 @@ A simple console-based slot machine game written in Java. The player spins the r
 - Basic Java classes and methods
 - Console input/output
 
-### How to Run
-1. Compile the program:
-   ```bash
-   javac Main.java
-   ```
 
 ## Sample Output
 
